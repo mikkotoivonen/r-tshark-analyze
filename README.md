@@ -9,3 +9,5 @@ Change the command line arguments to suit your needs (for example the interface)
 
 The R script needs to be modified to point to the correct file (variable called URL).
 Also, if you wish to highlight some know mac addresses, be sure to populate the "knownmacs" data frame.
+
+Further, the mactomanufacture.txt file may need periodic updating (you can find it here: https://code.wireshark.org/review/gitweb?p=wireshark.git;a=blob_plain;f=manuf). 
